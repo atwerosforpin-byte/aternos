@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "SmpFah.aternos.me", 
-    "port": 25519,   
+    "ip": "DuniaMinecraft.aternos.me", 
+    "port": 40310,   
     "version": "1.12.1"   
   },
   
